@@ -4,7 +4,7 @@
 ### Baixando o projeto
 use o comando no seu terminal:
 ```
-git clone https://github.com/anaclaudia-cb/JavaScript-Primeiros-Passos.git
+git clone https://github.com/anaclaudia-cb/Iniciando-com-JavaScript.git
 ```
 
 # Lista de Exercicios
